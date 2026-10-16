@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+}
+
+.hero {
+    background-color: #990000;
+    color: white;
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.hero h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+.container {
+    width: 90%;
+    max-width: 1000px;
+    margin: 30px auto;
+}
+
+.card {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.card h2 {
+    font-size: 22px;
+    color: #990000;
+    margin-bottom: 10px;
+}
+
+.card p {
+    font-size: 16px;
+    color: #666666;
+}
+
+.bezirke-liste {
+    list-style-type: none;
+    padding: 0;
+}
+
+.bezirke-liste li {
+    background-color: #f9f9f9;
+    border: 1px solid #eee;
+    padding: 8px 12px;
+    margin-bottom: 5px;
+    border-radius: 4px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333333;
+    color: white;
+    font-size: 14px;
+}
+a {
+    display: block;
+    width: fit-content;
+    margin: 30px auto; 
+    padding: 12px 25px;
+    background-color: #990000; 
+    color: white;
+}
